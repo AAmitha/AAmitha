@@ -6,7 +6,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAmitha&theme=dark)](https://github.com/AAmitha)
 
-url=https%3A%2F%2Fgithub.com%2FAAmitha&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 ---
 
 I architect production AI systems that bridge the gap between research and real-world impact.
