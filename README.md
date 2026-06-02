@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=AAmitha&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAmitha&theme=dark)](https://github.com/AAmitha)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AAmitha&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
