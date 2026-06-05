@@ -5,6 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AAmitha&label=Profile%20views&color=0e75b6&style=flat)
 
 📊 GitHub Stats
+
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=AAmitha&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAmitha&theme=dark&hide_border=true" height="150">
@@ -53,8 +54,8 @@ I build production AI systems that bridge the gap between research and real-worl
 
 ---
 
-
 🤝 Let's Connect 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amithaake03)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/aa29/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=black)](https://www.kaggle.com/akepati)
