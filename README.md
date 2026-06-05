@@ -4,8 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=AAmitha&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAmitha&theme=dark)](https://github.com/AAmitha)
-
 ---
 
 I architect production AI systems that bridge the gap between research and real-world impact.
